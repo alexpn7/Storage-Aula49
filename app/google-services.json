@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "77197770563",
+    "firebase_url": "https://fir-aula46-default-rtdb.firebaseio.com",
+    "project_id": "fir-aula46",
+    "storage_bucket": "fir-aula46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77197770563:android:ef3117f26083b6cb1179f6",
+        "android_client_info": {
+          "package_name": "com.example.aula49firebasecloudfilestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77197770563-vm3m5ld64e77s7s6gk5vsdb8371aqdem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgAIIa39162hjrTrqC2DqKoHMNJjD8Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77197770563-vm3m5ld64e77s7s6gk5vsdb8371aqdem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77197770563:android:2d4d5a2b80c699871179f6",
+        "android_client_info": {
+          "package_name": "com.example.firebaseaula46"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77197770563-vm3m5ld64e77s7s6gk5vsdb8371aqdem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgAIIa39162hjrTrqC2DqKoHMNJjD8Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77197770563-vm3m5ld64e77s7s6gk5vsdb8371aqdem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
